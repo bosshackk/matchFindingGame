@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-image: url('imagesforapp1/wood.jpg');
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+header{ 
+    margin: 5px;
+    padding: 5px;
+}
+footer{
+    margin: 5px;
+    padding: 15px;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 455px;
+    width: 608px;
+    margin: auto;
+    border: solid;
+}

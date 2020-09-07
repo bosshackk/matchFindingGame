@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-image: url('apps/app1/imagesforapp1/wood.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+header{
+    
+    margin: 25px;
+    border: 49px;
+    padding: 25px;
+    border-color: black;
+    font-size: 100px;
+
+}
+footer{
+    margin: 25px;
+    border: 4px;
+    padding: 25px;
+    bottom: 0px;
+    font-size: 50px;
+}
+a{
+    font-size: xx-large;
+    text-decoration-line: none;
+}
+h1{
+    font-size: 50px;
+}
